@@ -87,7 +87,7 @@ WSL-Fix-and-Automation-Guide/
 This guide was compiled through real-world troubleshooting on Windows 11 to fix a persistent and frustrating WSL startup issue. Feel free to fork, contribute, or open an issue if you'd like to collaborate or share your experience.
 MIT License
 
-Copyright (c) 2025 Jacqueline Gibson-Bradley
+Copyright (c) 2025 Obsidi4n-Om3ga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
